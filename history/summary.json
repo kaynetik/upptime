@@ -22,19 +22,19 @@
     "url": "https://zigmirror.nesovic.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zigmirror.nesovic.dev.ico",
     "slug": "zig-mirror",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 414,
-    "timeWeek": 425,
-    "timeMonth": 451,
-    "timeYear": 435,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 434,
+    "timeDay": 407,
+    "timeWeek": 422,
+    "timeMonth": 450,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 9
     }
   },
   {
