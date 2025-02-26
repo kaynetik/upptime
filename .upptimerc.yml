@@ -1,19 +1,13 @@
-# Change these first
-owner: kaynetik # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: kaynetik
+repo: upptime
 
 sites:
   - name: Essays
     url: https://essays.nesovic.dev
-  - name: Zig Mirror
-    url: https://zigmirror.nesovic.dev
+  # - name: Zig Mirror
+  #   url: https://zigmirror.nesovic.dev
   - name: Portfolio
     url: https://nesovic.dev
-  # - name: IPv6 test
-  #   url: forwardemail.net
-  #   port: 80
-  #   check: "tcp-ping"
-  #   ipv6: true
 
 assignees:
   - kaynetik
@@ -30,6 +24,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
