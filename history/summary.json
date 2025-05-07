@@ -4,9 +4,9 @@
     "url": "https://essays.nesovic.dev",
     "icon": "https://icons.duckduckgo.com/ip3/essays.nesovic.dev.ico",
     "slug": "essays",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 107,
     "timeMonth": 107,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "Portfolio",
     "url": "https://nesovic.dev",
     "icon": "https://icons.duckduckgo.com/ip3/nesovic.dev.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 70,
     "timeMonth": 70,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   }
 ]
