@@ -4,8 +4,8 @@ repo: upptime
 sites:
   - name: Essays
     url: https://essays.nesovic.dev
-  - name: Zig Mirror
-    url: https://zigmirror.nesovic.dev
+  # - name: Zig Mirror
+  #   url: https://zigmirror.nesovic.dev
   - name: Portfolio
     url: https://nesovic.dev
 
