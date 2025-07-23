@@ -4,9 +4,9 @@
     "url": "https://essays.nesovic.dev",
     "icon": "https://icons.duckduckgo.com/ip3/essays.nesovic.dev.ico",
     "slug": "essays",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 292,
     "timeMonth": 306,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   },
   {
     "name": "Portfolio",
@@ -33,6 +35,8 @@
     "timeWeek": 358,
     "timeMonth": 362,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   }
 ]
